@@ -23,7 +23,7 @@ const stuffs = [
 const esigns = [ 
     {
         name: 'ESign Installer',
-        url: 'itms-services://?action=download-manifest&amp;url=https://ipa.ipasign.cc:2052/sign/20250502125918018/b9d7c378-430d-d645-6cf8-56901a4f4fe1/app.plist"',
+        url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc:2052/sign/20250502162218482/343f820c-9ae1-610d-c38c-331b47ff0b4a/app.plist"',
         img: 'img/apps/esign.png',
         descriptions: 'HDFC Bank Limited'
     }
