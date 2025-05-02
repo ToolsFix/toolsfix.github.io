@@ -1,0 +1,146 @@
+.stuff-section .esign-section .signedapp-section .contact-section {
+    width: 50%;
+    text-align: center;
+    overflow-x: auto;
+    justify-content: center;
+}
+
+.app-group {
+    width: 30em;
+}
+
+.app img {
+    height: 4em;
+    border-radius: 16px;
+}
+
+.app {
+    margin: 1rem;
+    display: flex;
+}
+
+.line {
+    position: relative;
+    margin-top: 2em;
+}
+
+.line::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-bottom: 0.5px solid #cecece6b;
+}
+
+.install-btn {
+    font-size: 13px;
+    border-radius: 999px;
+    border: 0;
+    color: white;
+    cursor: pointer;
+    background-color: #007aff; /* iOS blue */
+    transition-duration: 0.3s;
+    font-weight: 800;
+    right: 0;
+}
+
+.install-btn:hover {
+    background-color: #005bb5; /* iOS dark blue */
+}
+
+.app-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 5em;
+    border-radius: .5rem;
+    transition-duration: 0.3s;
+}
+
+.app-container:hover {
+    background-color: #cecece6b;
+    cursor: pointer;
+}
+
+.app-container h1 {
+    color: white;
+    font-size: 15px;
+    margin: 2;
+    text-align: left;
+    font-weight: 400;
+}
+
+.app-container p {
+    color: #cecece6b;
+    font-size: 13px;
+    margin: 0;
+    text-align: left;
+    font-weight: 300;
+}
+
+.enter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    z-index: 1001;
+    pointer-events: none;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    transition: opacity 1s ease;
+}
+
+@media screen and (max-width: 1000px) {
+    .app-container {
+        padding-right: 2em;  
+    }
+    .signedapp-section .esign-section {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .app-container {
+        position: relative;
+    }
+    .app-container::after {
+        border-bottom: none;
+    }
+    
+    .app-container:last-child::after {
+        border-bottom: none;
+    }
+    
+    .app img {
+        height: 4em;
+        border-radius: 16px;
+    }
+    
+    .install-btn {
+        font-size: 13px;
+    }
+    
+    .app-container h1 {
+        font-size: 16px;
+    }
+
+    .app-container:hover {
+        background-color: #cecece6b;
+        cursor: pointer;
+    }
+}
+
+.scroll-container {
+    display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.scroll-item {
+    flex: 0 0 auto;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    width: 200px; 
+}
