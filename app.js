@@ -2,7 +2,7 @@
 const stuffs = [
     {
         name: 'Install DNS Profile',
-        url: 'https://tinyurl.com/y39v5b96',
+        url: 'https://tinyurl.com/337fp66j',
         img: 'img/icon/dns_profile.png',
         descriptions: 'Cài Đặt Cấu Hình DNS'
     },
