@@ -1,10 +1,10 @@
 
 const apps = [
     {
-        name: 'Youtube ++ iPA , Youtube Plus',
+        name: 'Youtube ++, Youtube Plus',
         url: 'app/YouTube ++_20.14.2.ipa',
         img: 'img/icon/badge.png',
-        descriptions: 'Tải Youtube ++ iPA , Youtube Plus'
+        descriptions: 'Tải File iPA Youtube ++, Youtube Plus'
     },
 ];
 
