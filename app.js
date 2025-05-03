@@ -29,13 +29,13 @@ const apps = [
     {
         name: 'Youtube ++, Youtube Plus',
         url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v20.14.2/YouTube.++_20.14.2.ipa',
-        img: 'img/icon/badge.png',
+        img: 'img/icon/youtube.png',
         descriptions: 'Tải Youtube ++, Youtube Plus File iPA'
     },
     {
         name: 'Filza File Manager',
         url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v4.0.0/Filza_4.0.0.ipa',
-        img: 'img/icon/badge.png',
+        img: 'img/apps/filza.png',
         descriptions: 'Tải Filza File Manager File iPA'
     },
 ];
