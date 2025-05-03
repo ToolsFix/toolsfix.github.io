@@ -29,11 +29,11 @@ const esigns = [
     }
 ];
 
-const signedapps = [
+const guide = [
     {
-        name: 'Đang cập nhật...',
-        url: 'https://',
-        img: 'img/icon/badge.png',
+        name: 'Installing TrollStore With Sideloadly',
+        url: 'https://ios.cfw.guide/installing-trollstore',
+        img: 'img/icon/sideloadly.png',
         descriptions: 'Không có sẵn'
     }
 ];
@@ -54,8 +54,8 @@ esigns.forEach(esign => {
     esignContainer.innerHTML += render(esign.name, esign.url, esign.img, esign.descriptions);
 });
 
-signedapps.forEach(signedapp => {
-    signedappContainer.innerHTML += render(signedapp.name, signedapp.url, signedapp.img, signedapp.descriptions);
+guide.forEach(guide => {
+    guideContainer.innerHTML += render(guide.name, signedapp.url, guide.img, guide.descriptions);
 });
 
 stuffContainer.addEventListener('click', (event) => {
@@ -74,7 +74,7 @@ esignContainer.addEventListener('click', (event) => {
     }
 });
 
-signedappContainer.addEventListener('click', (event) => {
+guideContainer.addEventListener('click', (event) => {
     const target = event.target.closest('.app-container');
     if (target) {
         const url = target.querySelector('.download-btn').getAttribute('href');
