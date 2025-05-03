@@ -22,7 +22,7 @@ const stuffs = [
 
 const esigns = [ 
     {
-        name: 'ESign Installer',
+        name: 'ESign',
         url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc:2052/sign/20250503092430252/010a8502-2a44-1766-395a-6ada5105f649/app.plist"',
         img: 'img/apps/esign.png',
         descriptions: 'HDFC Bank Limited'
@@ -34,7 +34,7 @@ const guides = [
         name: 'Installing TrollStore With Sideloadly',
         url: 'https://ios.cfw.guide/installing-trollstore',
         img: 'img/icon/sideloadly.png',
-        descriptions: 'Không có sẵn'
+        descriptions: 'Cài TrollStore bằng Sideloadly'
     }
 ];
 
