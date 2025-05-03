@@ -1,13 +1,3 @@
-
-const apps = [
-    {
-        name: 'Youtube ++, Youtube Plus',
-        url: 'app/YouTube ++_20.14.2.ipa',
-        img: 'img/icon/badge.png',
-        descriptions: 'Tải File iPA Youtube ++, Youtube Plus'
-    },
-];
-
 const esigns = [
     {
         name: 'Install DNS Profile',
@@ -33,6 +23,15 @@ const esigns = [
         img: 'img/apps/esign.png',
         descriptions: 'HDFC Bank Limited'
     }
+];
+
+const apps = [
+    {
+        name: 'Youtube ++, Youtube Plus',
+        url: 'app/YouTube ++_20.14.2.ipa',
+        img: 'img/icon/badge.png',
+        descriptions: 'Tải File iPA Youtube ++, Youtube Plus'
+    },
 ];
 
 const guides = [
