@@ -15,7 +15,7 @@ const esigns = [
         name: 'Download TrollInstallerX',
         url: 'app/TrollInstallerX.ipa',
         img: 'img/apps/trollst.png',
-        descriptions: 'Tải TrollInstallerX'
+        descriptions: 'Tải TrollInstallerX File iPA'
     },
     {
         name: 'ESign',
@@ -30,7 +30,7 @@ const apps = [
         name: 'Youtube ++, Youtube Plus',
         url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v20.14.2/YouTube.++_20.14.2.ipa',
         img: 'img/icon/badge.png',
-        descriptions: 'Tải File iPA Youtube ++, Youtube Plus'
+        descriptions: 'Tải Youtube ++, Youtube Plus File iPA'
     },
 ];
 
