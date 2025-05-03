@@ -28,7 +28,7 @@ const esigns = [
 const apps = [
     {
         name: 'Youtube ++, Youtube Plus',
-        url: 'app/YouTube ++_20.14.2.ipa',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v20.14.2/YouTube.++_20.14.2.ipa',
         img: 'img/icon/badge.png',
         descriptions: 'Tải File iPA Youtube ++, Youtube Plus'
     },
