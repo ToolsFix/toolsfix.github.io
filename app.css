@@ -1,4 +1,4 @@
-.stuff-section .esign-section .signedapp-section .contact-section {
+.stuff-section .esign-section .guide-section .contact-section {
     width: 50%;
     text-align: center;
     overflow-x: auto;
@@ -96,7 +96,7 @@
     .app-container {
         padding-right: 2em;  
     }
-    .signedapp-section .esign-section {
+    .guide-section .esign-section {
         width: 100%;
     }
 }
