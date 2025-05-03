@@ -1,9 +1,9 @@
 const esigns = [
     {
-        name: 'Install DNS Profile',
+        name: 'Installing DNS Profile',
         url: 'https://tinyurl.com/j65yazwx',
         img: 'img/icon/dns_profile.png',
-        descriptions: 'Cài Đặt Cấu Hình DNS'
+        descriptions: 'Cài Đặt Cấu Hình DNS Profile'
     },
     {
         name: 'Download File Certificate',
