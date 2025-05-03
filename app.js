@@ -29,7 +29,7 @@ const esigns = [
     }
 ];
 
-const guide = [
+const guides = [
     {
         name: 'Installing TrollStore With Sideloadly',
         url: 'https://ios.cfw.guide/installing-trollstore',
@@ -44,7 +44,7 @@ const stuffContainer = document.querySelector('.stuff-section');
 
 const esignContainer = document.querySelector('.esign-section');
 
-const signedappContainer = document.querySelector('.signedapp-section');
+const guideContainer = document.querySelector('.guide-section');
 
 stuffs.forEach(stuff => {
     stuffContainer.innerHTML += render(stuff.name, stuff.url, stuff.img, stuff.descriptions);
@@ -54,8 +54,8 @@ esigns.forEach(esign => {
     esignContainer.innerHTML += render(esign.name, esign.url, esign.img, esign.descriptions);
 });
 
-guide.forEach(guide => {
-    guideContainer.innerHTML += render(guide.name, signedapp.url, guide.img, guide.descriptions);
+guides.forEach(guide => {
+    guideContainer.innerHTML += render(guide.name, guide.url, guide.img, guide.descriptions);
 });
 
 stuffContainer.addEventListener('click', (event) => {
