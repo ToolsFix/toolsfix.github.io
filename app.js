@@ -32,6 +32,12 @@ const apps = [
         img: 'img/icon/badge.png',
         descriptions: 'Tải Youtube ++, Youtube Plus File iPA'
     },
+    {
+        name: 'Filza File Manager',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v4.0.0/Filza_4.0.0.ipa',
+        img: 'img/icon/badge.png',
+        descriptions: 'Tải Filza File Manager File iPA'
+    },
 ];
 
 const guides = [
