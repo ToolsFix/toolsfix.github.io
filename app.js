@@ -28,13 +28,13 @@ const esigns = [
 const apps = [
     {
         name: 'Youtube ++',
-        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v20.14.2/YouTube.++_20.14.2.ipa',
+        url: 'https://go.linkbulks.com/9AhG',
         img: 'img/icon/youtube.png',
         descriptions: 'Tải Youtube ++ file ipa'
     },
     {
         name: 'Filza File Manager',
-        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v4.0.0/Filza_4.0.0.ipa',
+        url: 'https://go.linkbulks.com/4etNr',
         img: 'img/app/filza.png',
         descriptions: 'Tải Filza File Manager file ipa'
     },
