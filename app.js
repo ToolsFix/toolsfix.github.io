@@ -34,7 +34,7 @@ const apps = [
     },
     {
         name: 'Filza File Manager',
-        url: 'https://go.linkbulks.com/4etNr',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v4.0.0/Filza_4.0.0.ipa',
         img: 'img/app/filza.png',
         descriptions: 'Tải Filza File Manager file ipa'
     },
