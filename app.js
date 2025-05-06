@@ -17,6 +17,12 @@ const esigns = [
         img: 'img/app/trollinstallerx.png',
         descriptions: 'Tải TrollInstallerX file ipa'
     },
+        {
+        name: 'TrollInstallerX Signed',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v1.0.3/TrollInstallerX_1.0.3.ipa',
+        img: 'img/app/trollinstallerx.png',
+        descriptions: 'Tải TrollInstallerX file ipa đã ký'
+    },
     {
         name: 'ESign',
         url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc:2052/sign/20250503092430252/010a8502-2a44-1766-395a-6ada5105f649/app.plist"',
