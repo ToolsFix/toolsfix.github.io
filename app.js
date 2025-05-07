@@ -55,7 +55,7 @@ const guides = [
     },
     {
         name: 'Installing ESign ++',
-        url: 'https://toolsfix.github.io/esign+.html',
+        url: 'esign+.html',
         img: 'img/app/esign.png',
         descriptions: 'Cài ESign ++ bằng TrollStore và Filza'
     },
