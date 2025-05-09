@@ -19,7 +19,7 @@ const esigns = [
     },
     {
         name: 'ESign 5.0.2 ✅ Signed',
-        url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc:2052/sign/20250509160925093/94c9dac0-ca9f-1478-a2d7-11f12bc450d2/app.plist',
+        url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc:2052/sign/20250509162008738/7e04295f-4e2e-6f68-8ce0-fa8ef5590e4f/app.plist',
         img: 'img/app/esign.png',
         descriptions: 'Cài đặt ESign 5.0.2 đã ký'
     },
