@@ -19,9 +19,9 @@ const esigns = [
     },
     {
         name: 'ESign 5.0.2 ✅ Signed',
-        url: 'app/esign_5.0.2_signed.ipa',
+        url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc:2052/sign/20250509160925093/94c9dac0-ca9f-1478-a2d7-11f12bc450d2/app.plist',
         img: 'img/app/esign.png',
-        descriptions: 'Tải ESign 5.0.2 file ipa đã ký'
+        descriptions: 'Cài đặt ESign 5.0.2 đã ký'
     },
 ];
 
