@@ -18,10 +18,10 @@ const esigns = [
         descriptions: 'Tải TrollInstallerX file ipa'
     },
     {
-        name: 'ESign',
-        url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc:2052/sign/20250503092430252/010a8502-2a44-1766-395a-6ada5105f649/app.plist"',
+        name: 'ESign 5.0.2 ✅ Signed',
+        url: 'app/esign_5.0.2_signed.ipa',
         img: 'img/app/esign.png',
-        descriptions: 'HDFC Bank Limited'
+        descriptions: 'Tải ESign 5.0.2 file ipa đã ký'
     },
 ];
 
