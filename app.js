@@ -27,28 +27,28 @@ const esigns = [
 
 const apps = [
     {
-        name: 'Youtube ++',
+        name: 'YouTube ++ v20.14.2',
         url: 'https://go.linkbulks.com/9AhG',
         img: 'img/icon/youtube.png',
-        descriptions: 'Tải Youtube ++ file ipa'
+        descriptions: 'Tải YouTube ++ v20.14.2 file ipa'
     },
     {
-        name: 'Filza File Manager',
+        name: 'Filza File Manager v4.0.0',
         url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v4.0.0/Filza_4.0.0.ipa',
         img: 'img/app/filza.png',
-        descriptions: 'Tải Filza File Manager file ipa'
+        descriptions: 'Tải Filza File Manager v4.0.0 file ipa'
     },
     {
-        name: 'Mobile Scanner ++_2.13.4',
+        name: 'Mobile Scanner ++ v2.13.4',
         url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v2.13.4/MobileScanner.++_2.13.4.ipa',
         img: 'img/app/mobilescanner.png',
-        descriptions: 'Tải Mobile Scanner ++_2.13.4 file ipa'
+        descriptions: 'Tải Mobile Scanner ++ v2.13.4 file ipa'
     },
     {
-        name: 'SoundLab ++_2.7.12',
+        name: 'SoundLab ++ v2.7.12',
         url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v2.7.12/SoundLab.++_2.7.12.ipa',
         img: 'img/app/soundlab.png',
-        descriptions: 'Tải SoundLab ++_2.7.12 file ipa'
+        descriptions: 'Tải SoundLab ++ v2.7.12 file ipa'
     },
 ];
 
