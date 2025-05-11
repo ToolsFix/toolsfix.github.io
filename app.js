@@ -19,7 +19,7 @@ const esigns = [
     },
     {
         name: '✅ ESign v5.0.2 Signed',
-        url: 'app/esign_5.0.2_signed.ipa',
+        url: 'itms-services://?action=download-manifest&amp;url=https://github.com/ToolsFix/toolsfix.github.io/releases/download/v5.0.0/app.plist',
         img: 'img/app/esign.png',
         descriptions: 'Cài đặt ESign 5.0.2 đã ký'
     },
