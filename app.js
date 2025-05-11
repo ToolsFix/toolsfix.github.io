@@ -38,6 +38,18 @@ const apps = [
         img: 'img/app/filza.png',
         descriptions: 'Tải Filza File Manager file ipa'
     },
+    {
+        name: 'Mobile Scanner ++_2.13.4',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v2.13.4/MobileScanner.++_2.13.4.ipa',
+        img: 'img/app/mobilescanner.png',
+        descriptions: 'Tải Mobile Scanner ++_2.13.4 file ipa'
+    },
+    {
+        name: 'SoundLab ++_2.7.12',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v2.7.12/SoundLab.++_2.7.12.ipa',
+        img: 'img/app/soundlab.png',
+        descriptions: 'Tải SoundLab ++_2.7.12 file ipa'
+    },
 ];
 
 const appssigned = [
