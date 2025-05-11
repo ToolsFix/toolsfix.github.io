@@ -18,7 +18,7 @@ const esigns = [
         descriptions: 'Tải TrollInstallerX file ipa'
     },
     {
-        name: 'ESign 5.0.2 ✅ Signed',
+        name: '✅ ESign v5.0.2 Signed',
         url: 'app/esign_5.0.2_signed.ipa',
         img: 'img/app/esign.png',
         descriptions: 'Cài đặt ESign 5.0.2 đã ký'
