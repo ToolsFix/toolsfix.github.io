@@ -23,6 +23,12 @@ const esigns = [
         img: 'img/app/esign.png',
         descriptions: 'Cài đặt ESign 5.0.2 đã ký'
     },
+    {
+        name: 'Nekojb Rootful',
+        url: 'app/nekojb_rootful.ipa',
+        img: 'img/icon/badge.png',
+        descriptions: 'Tải Nekojb Rootful file ipa'
+    },
 ];
 
 const apps = [
