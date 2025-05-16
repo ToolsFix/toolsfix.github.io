@@ -24,7 +24,7 @@ const esigns = [
         descriptions: 'Cài đặt ESign 5.0.2 đã ký'
     },
     {
-        name: 'Nekojb Rootful',
+        name: 'Jailbreak - Nekojb Rootful',
         url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v2.0.11/nekojb_rootful.ipa',
         img: 'img/icon/badge.png',
         descriptions: 'Tải Nekojb Rootful file ipa'
