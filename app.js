@@ -25,7 +25,7 @@ const esigns = [
     },
     {
         name: 'Nekojb Rootful',
-        url: 'app/nekojb_rootful.ipa',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v2.0.11/nekojb_rootful.ipa',
         img: 'img/icon/badge.png',
         descriptions: 'Tải Nekojb Rootful file ipa'
     },
