@@ -75,6 +75,12 @@ const guides = [
         descriptions: 'Cài TrollStore bằng Sideloadly'
     },
     {
+        name: 'Installing TrollStore For iOS 17/18',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v1.0.3/TrollInstallerTip.zip',
+        img: 'img/app/trollstore.png',
+        descriptions: 'Tải TrollStore cài bằng ứng dụng Tips'
+    },
+    {
         name: 'Installing ESign ++',
         url: 'esign+.html',
         img: 'img/app/esign.png',
