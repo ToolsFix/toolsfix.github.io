@@ -48,10 +48,10 @@ const apps = [
 
 const appssigned = [
     {
-        name: 'Đang Cập Nhật...',
+        name: 'Đang Cập Nhật',
         url: 'https://',
         img: 'img/icon/badge.png',
-        descriptions: ''
+        descriptions: 'Không khả dụng'
     },
 ];
 
