@@ -48,10 +48,10 @@ const apps = [
 
 const appssigned = [
     {
-        name: 'Filza-3uTools',
-        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v4.0.0/Filza_3uTools.ipa',
+        name: 'Đang Cập Nhật...',
+        url: 'https://',
         img: 'img/icon/badge.png',
-        descriptions: 'Tải Filza file ipa cài bằng 3uTools'
+        descriptions: ''
     },
 ];
 
