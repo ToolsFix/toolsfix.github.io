@@ -17,18 +17,6 @@ const esigns = [
         img: 'img/app/trollinstallerx.png',
         descriptions: 'Tải TrollInstallerX file ipa'
     },
-    {
-        name: '✅ ESign Signed',
-        url: 'itms-services://?action=download-manifest&amp;url=https://github.com/ToolsFix/toolsfix.github.io/releases/download/v5.0.0/app.plist',
-        img: 'img/app/esign.png',
-        descriptions: 'Cài đặt ESign 5.0.2 đã ký'
-    },
-    {
-        name: 'Jailbreak - Nekojb Rootful',
-        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v2.0.11/nekojb_rootful.tipa',
-        img: 'img/icon/badge.png',
-        descriptions: 'Tải Nekojb Rootful file ipa'
-    },
 ];
 
 const apps = [
