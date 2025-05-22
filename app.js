@@ -76,9 +76,9 @@ const guides = [
     },
     {
         name: 'Installing TrollStore For iOS 17/18',
-        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v1.0.3/TrollInstallerTip.zip',
+        url: 'TrollStore16_18.html',
         img: 'img/app/trollstore.png',
-        descriptions: 'Tải TrollStore cài bằng ứng dụng Tips'
+        descriptions: 'Cài TrollStore cho iOS 17/18'
     },
     {
         name: 'Installing ESign ++',
