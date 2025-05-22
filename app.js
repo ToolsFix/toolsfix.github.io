@@ -75,10 +75,10 @@ const guides = [
         descriptions: 'Cài TrollStore bằng Sideloadly'
     },
     {
-        name: 'Installing TrollStore For iOS 16.x - 18.x',
+        name: 'Installing TrollStore For iOS 16.x - iOS 18.x',
         url: 'TrollStore16_18.html',
         img: 'img/app/trollstore.png',
-        descriptions: 'Cài TrollStore cho iOS 16.x - 18.x'
+        descriptions: 'Cài TrollStore cho iOS 16.x - iOS 18.x'
     },
     {
         name: 'Installing ESign ++',
