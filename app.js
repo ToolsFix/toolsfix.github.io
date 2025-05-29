@@ -12,9 +12,9 @@ const esigns = [
         descriptions: 'Tải file chứng chỉ'
     },
     {
-        name: 'Download TrollInstallerX',
-        url: 'app/TrollInstallerX.ipa',
-        img: 'img/app/trollinstallerx.png',
+        name: 'KSign New Cert',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/blob/main/app/com.ksign.app.plist',
+        img: 'img/app/ksign.png',
         descriptions: 'Tải TrollInstallerX file ipa'
     },
 ];
