@@ -13,9 +13,9 @@ const esigns = [
     },
     {
         name: 'KSign New Cert ✅',
-        url: 'https://github.com/ToolsFix/toolsfix.github.io/blob/main/app/com.ksign.app.plist',
+        url: 'itms-services://?action=download-manifest&url=https://github.com/ToolsFix/toolsfix.github.io/blob/main/app/com.ksign.app.plist',
         img: 'img/app/ksign.png',
-        descriptions: 'Tải TrollInstallerX file ipa'
+        descriptions: 'Cài KSign mới nhất'
     },
 ];
 
