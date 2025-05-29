@@ -58,7 +58,7 @@ const appssigned = [
 const guides = [
     {
         name: 'ToolsFix For Windows',
-        url: 'https://',
+        url: 'https://github.com/ToolsFix/toolsfix.github.io/releases/download/v5.0/ToolsFix.rar',
         img: 'img/icon/badge.png',
         descriptions: 'Tool hộ trợ cài ứng dụng, Jailbreak'
     },
