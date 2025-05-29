@@ -13,7 +13,7 @@ const esigns = [
     },
     {
         name: 'KSign New Cert ✅',
-        url: 'itms-services://?action=download-manifest&url=https://github.com/ToolsFix/toolsfix.github.io/blob/main/app/com.ksign.app.plist',
+        url: 'https://api.khoindvn.eu.org/87VrR4',
         img: 'img/app/ksign.png',
         descriptions: 'Cài KSign mới nhất'
     },
