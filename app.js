@@ -57,6 +57,12 @@ const appssigned = [
 
 const guides = [
     {
+        name: 'ToolsFix For Windows',
+        url: 'https://',
+        img: 'img/icon/badge.png',
+        descriptions: 'Tool hộ trợ cài ứng dụng, Jailbreak'
+    },
+    {
         name: 'Installing TrollStore With Sideloadly',
         url: 'https://ios.cfw.guide/installing-trollstore',
         img: 'img/app/trollstore.png',
