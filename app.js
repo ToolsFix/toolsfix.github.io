@@ -12,7 +12,7 @@ const esigns = [
         descriptions: 'Tải file chứng chỉ'
     },
     {
-        name: 'KSign New Cert',
+        name: 'KSign New Cert ✅',
         url: 'https://github.com/ToolsFix/toolsfix.github.io/blob/main/app/com.ksign.app.plist',
         img: 'img/app/ksign.png',
         descriptions: 'Tải TrollInstallerX file ipa'
