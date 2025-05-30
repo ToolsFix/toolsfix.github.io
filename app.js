@@ -11,12 +11,6 @@ const esigns = [
         img: 'img/icon/esign_certs.png',
         descriptions: 'Tải file chứng chỉ'
     },
-    {
-        name: 'KSign New Cert ✅',
-        url: 'itms-services:///?action=download-manifest&url=https://ipa.ipasign.cc/manifest/a1630e79e0b0.plist',
-        img: 'img/app/ksign.png',
-        descriptions: 'Cài KSign mới nhất'
-    },
 ];
 
 const apps = [
