@@ -43,7 +43,7 @@ const apps = [
 const appssigned = [
     {
         name: 'Đang Cập Nhật',
-        url: 'https://github.com/ToolsFix/toolsfix.github.io/blob/main/app/com.ksign.app.plist',
+        url: 'https://ipa.ipasign.cc/download/28a10ee4a54at',
         img: 'img/icon/badge.png',
         descriptions: 'Không khả dụng'
     },
