@@ -43,7 +43,7 @@ const apps = [
 const appssigned = [
     {
         name: 'Đang Cập Nhật',
-        url: 'https://ipa.ipasign.cc/download/28a10ee4a54at',
+        url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc/manifest/28a10ee4a54a.plist',
         img: 'img/icon/badge.png',
         descriptions: 'Không khả dụng'
     },
