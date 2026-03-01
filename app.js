@@ -7,7 +7,7 @@ const esigns = [
     },
     {
         name: 'Download File Certificate',
-        url: 'app/HDFC Bank Limited.esigncert',
+        url: 'app/VIETTEL GROUP.esigncert',
         img: 'img/icon/esign_certs.png',
         descriptions: 'Tải file chứng chỉ'
     },
