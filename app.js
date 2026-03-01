@@ -7,7 +7,7 @@ const esigns = [
     },
     {
         name: 'Download File Certificate',
-        url: 'app/VIETTEL GROUP.esigncert',
+        url: 'app/ESignCert.zip',
         img: 'img/icon/esign_certs.png',
         descriptions: 'Tải file chứng chỉ'
     },
