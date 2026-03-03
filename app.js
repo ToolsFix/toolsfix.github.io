@@ -42,10 +42,10 @@ const apps = [
 
 const appssigned = [
     {
-        name: 'Đang Cập Nhật',
-        url: 'itms-services://?action=download-manifest&url=https://ipa.ipasign.cc/manifest/28a10ee4a54a.plist',
-        img: 'img/icon/badge.png',
-        descriptions: 'Không khả dụng'
+        name: 'Filza_4.0.0',
+        url: 'itms-services://?action=download-manifest&url=https://github.com/ToolsFix/toolsfix.github.io/blob/main/app/com.tigisoftware.Filza.plist',
+        img: 'img/app/filza.png',
+        descriptions: 'Filza_4.0.0 Đã Ký'
     },
 ];
 
