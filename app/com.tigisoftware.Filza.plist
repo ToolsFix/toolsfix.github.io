@@ -11,22 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ToolsFix/toolsfix.github.io/releases/download/v4.0.0/Filza_4.0.0.ipa</string>
+					<string>https://yourserver.com/Filza_4.0.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tigisoftware.Filza</string>
+				<string>com.tigisoftware.Filza.Sharing</string>
 				<key>bundle-version</key>
-				<string>4.0</string>
+				<string>2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Filza</string>
+				<string>Save to Folder</string>
 			</dict>
 		</dict>
 	</array>
 </dict>
 </plist>
-
